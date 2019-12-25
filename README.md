@@ -13,6 +13,7 @@
 
       #import <Foundation/Foundation.h>
       #define PI 3.14159
+      #define V(s, h), s*h
       
       int main()
       {
