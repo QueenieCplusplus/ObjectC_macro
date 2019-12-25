@@ -9,6 +9,10 @@
  
          #define KeyWord(Param) string
          
+取消巨集 
+
+         #undef 巨集名稱
+         
 實作範例
 
       #import <Foundation/Foundation.h>
@@ -27,8 +31,7 @@
         return 0;
         
       }
-      
-         
+             
  
          
          
